@@ -940,6 +940,10 @@ form.comment-form button {
 	height: auto;
 }
 
+.responsive60 {
+	width: 60%;
+	height: auto;
+}
 
 
 td, th {
