@@ -943,6 +943,8 @@ form.comment-form button {
 .responsive60 {
 	width: 60%;
 	height: auto;
+	text-align:center;
+	display:block;
 }
 
 
