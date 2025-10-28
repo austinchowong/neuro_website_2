@@ -933,11 +933,15 @@ form.comment-form button {
 .responsive {
 	width: 100%;
  	height: auto;
+	display: block;
+	margin: auto;
 }
 
 .responsive40 {
 	width: 40%;
 	height: auto;
+	display: block;
+	margin: auto;
 }
 
 .responsive60 {
@@ -945,10 +949,17 @@ form.comment-form button {
 	height: auto;
 	text-align:center;
 	display:block;
+	margin: auto;
 }
 
 td, th {
   border: 1px solid #dddddd;
   text-align: center;
   padding: 8px;
+}
+
+.center-image {
+	display: block;
+  margin: auto;
+  width: 50%;
 }
